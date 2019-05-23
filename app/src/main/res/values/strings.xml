@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Clientes</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_senha">Senha</string>
+    <string name="contentDescription">Logo</string>
+    <string name="bt_sigin">Login</string>
+    <string name="bt_cad">Cadastro</string>
+    <string name="password_fail">E-mail inválido</string>
+    <string name="email_fail">Senha inválida</string>
+    <string name="email_already">E-mail já cadastrado</string>
+    <string name="signup_fail">Não foi possível realizar o login</string>
+    <string name="content_description_foto_cliente">Foto do Cliente</string>
+    <string name="hint_nome">Nome do Cliente</string>
+    <string name="hint_email_cliente">E-mail do Cliente</string>
+    <string name="hint_idade_cliente">Idade</string>
+</resources>
